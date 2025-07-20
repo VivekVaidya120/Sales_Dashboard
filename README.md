@@ -29,7 +29,10 @@ This Power BI project presents an interactive dashboard for analyzing an e-comme
 - DAX (for calculated KPIs)
 
 ---
+## 📸 Dashboard Preview
 
+![Sales Dashboard](https://raw.githubusercontent.com/VivekVaidya120/Sales_Dashboard/main/Screenshot_Sales_Dashboard.png
+---
 ## 📌 Notes
 
 This dashboard is part of my Data Analytics Portfolio. For more projects, visit my GitHub profile.
