@@ -18,7 +18,7 @@ This Power BI project presents an interactive dashboard for analyzing an e-comme
 
 ## 📁 File
 
-- *https://github.com/VivekVaidya120/Sales_Dashboard/tree/main* – Power BI file for the full dashboard
+- *https://github.com/VivekVaidya120/Sales_Dashboard/blob/main/Sales_Dashboard.pbix* – Power BI file for the full dashboard
 
 ---
 
